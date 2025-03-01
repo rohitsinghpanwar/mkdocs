@@ -1,0 +1,14 @@
+# Virtual Environment
+venv
+.env/
+*.pyc
+__pycache__/
+
+# MkDocs Build Output
+site/
+mkdocs.yml.lock
+
+# Logs & System Files
+*.log
+.DS_Store
+Thumbs.db
