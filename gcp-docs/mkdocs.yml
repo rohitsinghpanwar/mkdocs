@@ -19,9 +19,15 @@ theme:
       accent: deep purple
   features:
     - navigation.footer
+    - navigation.top
+    - toc.follow
+  icon:
+    repo: fontawesome/brands/github
 copyright: Copyright &copy; 2025 Rohit
 extra:
   generator: false
+repo_url: https://github.com/rohitsinghpanwar/mkdocs
+repo_name: GCP Documentation
 markdown_extensions:
   - attr_list
   - pymdownx.emoji:

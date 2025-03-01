@@ -1,5 +1,5 @@
 # **Welcome to GCP Optimization Docs by Rohit**
-# **Introduction**
+## **Introduction**
 In this documentation, we will discuss strategies to optimize Google Cloud Platform (GCP) costs and enhance efficiency.
 
 ---
@@ -140,5 +140,5 @@ In Google Cloud Platform alerts are based on metrics collected from your resourc
 
 ---
 
-# **Conclusion**
+## **Conclusion**
 By following these best practices, you can significantly reduce costs, improve resource utilization, and enhance financial governance in GCP. Whether you're optimizing Compute Engine, databases, or monitoring costs, strategic planning will help you get the most value from your cloud investment.
